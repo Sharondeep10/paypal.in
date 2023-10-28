@@ -1,0 +1,363 @@
+body{
+    margin: 0;
+}
+#header1{
+    height: 70px;
+    width: 100%;
+    background-color:white;
+}
+#header2{
+    height: 590px;
+    width: 100%;
+    
+}
+#header3{
+    height: 130px;
+    width: 100%;
+    background-color: #02387b;
+    margin-top: -16px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 22px;
+    font-family: PayPalSansBig-Light,Helvetica Neue,Arial,sans-serif;
+    font-weight: 50;
+}
+#header4{
+    height: 440px;
+    width: 100%;
+    background-color:#f5f7fa ;
+}
+
+#l1{
+    height: 400px;
+    width: 35%;
+    margin-left: 15% ;
+    
+    float: left;
+    background-color: #f5f7fa ;
+}
+#bg1{
+    height: 100%;
+    padding-top: -20px;
+    width: 60%;
+}
+
+#r1{
+    height: 395px;
+    width: 35%;
+    float: left;
+    background-color:#f5f7fa ;
+    margin-left: 10% ;
+    margin-top: 3%;
+}
+#header5{
+    height: 440px;
+    width: 100%;
+    background-color: #ffffff;
+}
+#l2{
+    height: 440px;
+    width: 35%;
+    margin-left: 15% ;
+    float: left;
+    background-color:white;
+}
+#r2{
+    height: 440px;
+    width: 35%;
+    float: left;
+    background-color:white;
+}
+#header6{
+    height: 445px;
+    width: 100%;
+    background-color: #f5f7fa ;
+}
+#shopLeft{
+    height: 440px;
+    width: 40%;
+    margin-left: 15% ;
+    float: left;
+    background-color:#f5f7fa ;
+}
+#shopRight{
+    height: 440px;
+    width: 40%;
+    float: left;
+    background-color: #f5f7fa ;
+}
+#bg3{
+    width: 80%;
+    background-color: #fff;
+    align-items: center;
+    margin-top: 3%;
+}  
+
+#header7{
+    height: 328px;
+    width: 100%;
+    background-color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 40px;
+    font-family: PayPalSansBig-Light,Helvetica Neue,Arial,sans-serif;
+    font-weight: 50;
+    color: #00A8EA;
+}
+
+#header8{
+    height: 380px;
+    width: 100%;
+    background-color: #00A8EA;
+}
+
+/* Header */
+#header11{
+    height: 60px;
+    width: 25%;
+    background-color:white;
+    float: left;
+    
+}
+#header21{
+    height: 70px;
+    width: 10%;
+    background-color: white;
+    float: left;
+}
+#header31{
+    height: 60px;
+    width: 10%;
+    background-color: white;
+    float: left;
+}
+#header31:hover,#header41:hover,#header51:hover,#header61:hover{
+    color: #3498db;
+}
+#header41{
+    height: 60px;
+    width: 10%;
+    background-color: white;
+    float: left;
+}
+#header51{
+    height: 60px;
+    width: 10%;
+    background-color: white;
+    float: left;
+}
+#header61{
+    height: 60px;
+    width: 10%;
+    background-color: white;
+    float: left;
+}
+#header71{
+    height: 60px;
+    width: 24%;
+    float: left;
+    
+}
+#con{
+    height: 150px;
+    width: 100%;
+    background-color: #3498db;
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 2%;
+    color:white;
+    font-family: PayPalSansBig-Light,Helvetica Neue,Arial,sans-serif;
+}
+#img1{
+    
+    width: 93%;
+    height: 320%;
+   padding-left: 7%;
+   padding-top: 2.7%;
+   background-color: #3498db;
+}
+#cb{
+    height: 100px;
+    width: 100%;
+    background-color: #3498db;
+    
+}
+#counter{
+    height: 100px;
+    width: 100%;
+    background-color: #3498db;
+}
+#logo{
+    height: 65px;
+    width: 180px;
+    margin-left:200px;
+    
+}
+*{
+    font-family: PayPalSansSmall-Regular,Helvetica Neue,Arial,sans-serif;
+    font-weight: 700;
+}
+#p1{
+    margin-top: 16%;
+    font-size: 14px;
+}
+#p2{
+    font-weight: 200;
+    font-size: 120%;
+}
+#p3{
+    font-weight: 200;
+    font-size: 105%;
+}
+#p4{
+   color: white;
+   font-family: PayPalSansSmall-Regular,Helvetica Neue,Arial,sans-serif;
+   font-weight: 100;
+   font-size: 200%; 
+}
+/* Button*/
+.b1{
+    margin-top: 5%;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 6rem;
+    border-radius: 25px;
+    background-color: white;
+    border: 1px solid #1384e7;
+    color: #1384e7;
+}
+.b1:hover{
+    background-color: #1384e7;
+    color: white;
+}
+.b2:hover{
+    background-color: white;
+    border: 1px solid #1384e7;
+    color: #1384e7;
+}
+.b2{
+    margin-top: 5%;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 6rem;
+    border-radius: 20px;
+    background-color: #1384e7;
+    color: #fbfeff;
+    border: #1384e7;
+}
+.b3{
+    width: 20%;
+    cursor: pointer;
+    border-radius: 25px;
+    padding: 17px ;
+    padding-left: 80px;
+    padding-right: 80px;
+    border: transparent;
+    margin-left: 40%;
+    background-color: white;
+    color:   #0a5aa9;
+    font-weight: 550;
+    font-size: 15px;
+}
+.b3:hover{
+    background-color: #1384e7;
+    color: white;
+}
+.b4{
+    width: 11.5%;
+    cursor: pointer;
+    border-radius: 30px;
+    padding: 8.5px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    border:transparent;
+    background-color:white;
+    margin-top: 1%;
+    color: #015994;
+    font-weight: 700;
+    font-size: 14px;
+}
+.b4:hover{
+    background-color: #015994;
+    color: white;
+}
+.b5{
+    max-width: 320px;
+    cursor: pointer;
+    border-radius: 25px;
+    border-color: #11a4df;
+    padding: 16px 24px;
+    padding-left: 110px;
+    padding-right: 110px;
+    background-color:white;
+    margin-top: 1%;
+    color: #015994;
+    font-weight: 700;
+    font-size: 14px;
+}
+.b5:hover{
+    background-color: #1384e7;
+    color: white;
+}
+
+.b6,.b7,.b8{
+    max-width: 400px;
+    cursor: pointer;
+    border-radius: 25px;
+    border-color: #11a4df;
+    padding: 16px 24px;
+    padding-left: 120px;
+    padding-right: 120px;
+    background-color:white;
+    margin-top: 1%;
+    color: #015994;
+    font-weight: 500;
+    font-size: 14px;
+}
+.b6:hover{
+    background-color: #1384e7;
+    color: white;
+}
+.b7:hover{
+    background-color: #1384e7;
+    color: white;
+}
+.b8:hover{
+    background-color: #1384e7;
+    color: white;
+}
+.editor{
+font-size: 1em;
+font-weight: 200;
+font-family: PayPalSansBig-Light,Helvetica Neue,Arial,sans-serif;
+color: #2e3232;
+}
+.editorup{
+font-size: 2.0 em;
+color: #00A8EA;
+font-family:PayPalSansBig-Light,Helvetica Neue,Arial,sans-serif;
+font-weight: 600;
+
+}
+#upper{
+height: 150px;
+width:100%;
+margin-top: 6%;
+margin-left: 14%;
+margin-right: 14%;
+font-family: PayPalSansSmall-Regular,Helvetica Neue,Arial,sans-serif;
+font-weight: 400;
+color: dimgrey;
+}
+#lower{
+height: 200px;
+width:100%;
+margin-top: 4%;
+
+}
+#lower1{
+margin-left:14%;
+}
